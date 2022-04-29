@@ -3,7 +3,8 @@
   "region": "REGION",
   "next": "Next",
   "back": "Back",
-  "content_page": "Content Page",
+  "content_page": "Contents Page",
   "outlines": "Outlines",
-  "content_menu": "Content Menu"
+  "content_menu": "Content Menu",
+  "back_to_home": "Back to Home Page"
 }
